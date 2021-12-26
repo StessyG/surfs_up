@@ -14,4 +14,5 @@ From the results we obtained:
 
 This statistical analysis performed on the months of June and December shows that the temperatures in Oahu are adequate for the surf and ice cream shop. Although, it appears like temperatures are low in December, the lowest temperature observed is 59°F. 
 Nonetheless, it is recommended to analyse the precipitation data and the humidity during the months of June and Decemeber to confirm that the climate in Oahu is ideal for the business.
-
+[!June_statistics](https://github.com/StessyG/surfs_up/blob/5b73d96ed4d1da80a75ee5ab5ab86101635c6751/June_statistics.png)
+[!December_statistics](https://github.com/StessyG/surfs_up/blob/5b73d96ed4d1da80a75ee5ab5ab86101635c6751/December_statistics.png)

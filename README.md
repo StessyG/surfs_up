@@ -9,7 +9,13 @@ From the results we obtained:
 . The average temperature for the month of June is 74.9°F; the minimum temperature being 64.0°F while the maximum temperature is 85.0°F.
 . The average temperature for the month of December is 71.0°F ; the minimum temperature being 56°F while the maximum temperature is 83.0°F.
 . The majority of the June temperatures lies above 73°F while 75% of the temperatures observed in December is above 69°F.
+
+June analysis:
+
 ![June_statistics](https://github.com/StessyG/surfs_up/blob/5b73d96ed4d1da80a75ee5ab5ab86101635c6751/June_statistics.png)
+
+December analysis:
+
 ![December_statistics](https://github.com/StessyG/surfs_up/blob/5b73d96ed4d1da80a75ee5ab5ab86101635c6751/December_statistics.png)
 
 # Summary:
